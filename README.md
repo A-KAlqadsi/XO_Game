@@ -14,3 +14,10 @@ And it will be updated as I continue in my C# learning road map.
 6. Open the project solution in the folder you cloned with name "XO-Game.sln"
 7. after that  run visual studio using short "ctrl + F5"
 
+## Find a bug?
+If you found an issue or would like to submit an improvment to this project, 
+please submit an issuse using the issuses tab above.
+If you would like to submit a PR with a fix, reference the issuse created!
+
+## Thank you so much!
+
